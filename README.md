@@ -9,7 +9,8 @@
     3. [Run](#run)
 3. [File Descriptions](#file_description)
 4. [Results](#results)
-5. [License](#licensing)
+5. [License](#license)
+6. [Acknowledgements](#acknowledgements)
 
 ## Description <a name="description"></a>
 
@@ -59,10 +60,16 @@ Clone the repositor below.
 ├── models
 │   ├── classifier.pkl
 │   └── train_classifier.py
+├── notebooks
+│   ├── ETL Pipeline Preparation.ipynb
+│   ├── ML Pipeline Preparation.ipynb
 ├── README.md
 ```
 
-
+## Results<a name="results"></a>
 
 ## License<a name="license"></a>
 This source code is made available under the [MIT License](https://github.com/dalpengholic/Udacity_ML_Titanic_survivors/blob/master/LICENSE).
+
+## Acknowledgements<a name="acknowledgements"></a>
+This project is given by the result of collaboration between [Udacity](https://www.udacity.com) and [Figure Eight](https://www.figure-eight.com)
