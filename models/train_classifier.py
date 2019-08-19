@@ -24,7 +24,7 @@ from sklearn.ensemble import RandomForestClassifier,AdaBoostClassifier
 from sklearn.naive_bayes import MultinomialNB
 
 import pickle
-from workspace_utils import active_session
+
 
 
 def load_data(database_filepath):
