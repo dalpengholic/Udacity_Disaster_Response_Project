@@ -7,7 +7,7 @@
     1. [Dependency](#dependency)
     2. [Installation](#installation)
     3. [Run](#run)
-3. [File Descriptions](#file_description)
+3. [File Structure](#file_structure)
 4. [Results](#results)
     1. [Web app](#web_app)
     2. [Things to be improved](#things_to_be_improved)
@@ -49,8 +49,8 @@ Clone the repositor below.
 
 3. Open http://0.0.0.0:3001/ 
         
-<a name="file_description"></a>
-## File Descriptions
+<a name="file_structure"></a>
+## File Structure
 ```
 ├── app
 │   ├── run.py
