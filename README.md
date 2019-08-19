@@ -2,7 +2,7 @@
 ## Disaster response pipelines
 
 ## Table of Contents
-1. [Description](#description)
+1. [About the Project](#about_the_project)
 2. [How to Use](#how_to_use)
     1. [Dependency](#dependency)
     2. [Installation](#installation)
@@ -14,8 +14,8 @@
 5. [License](#license)
 6. [Acknowledgements](#acknowledgements)
 
-<a name="description"></a>
-## Description
+<a name="about_the_project"></a>
+## About the Project
 
 This is one of 2nd term projects of Data Science Nanodegree Program by Udacity. The goal of the project is to create a model using a data set containing real messages given by [Figure Eight](https://www.figure-eight.com) to classify disaster messages. To complete this, three process were used in order as follows.
 
