@@ -68,6 +68,7 @@ Clone the repositor below.
 ├── notebooks
 │   ├── ETL Pipeline Preparation.ipynb
 │   ├── ML Pipeline Preparation.ipynb
+├── LICENSE
 ├── README.md
 ```
 <a name="results"></a>
@@ -85,7 +86,7 @@ The first plot shows the distribution of message genre. The second plot shows fr
 The model used in the web app was trained with an imbalanced dataset. For example, the training dataset did not have any messages beloning 'child alone' category. In addition, messages about categories like 'offer', 'fire', and 'hospitals' were also rare. One solution for this imbalanced case is to add new messages related to minority categories to reduce imbalance. The other workaround solution could be using other libraries such as 'imbalanced-learn' for advanced sampling methods like SMOTE (Synthetic Minority Over-Sampling Technique) and ADASYN (Adaptive Synthetic sampling approach). 
 <a name="license"></a>
 ## License
-This source code is made available under the [MIT License](https://github.com/dalpengholic/Udacity_ML_Titanic_survivors/blob/master/LICENSE).
+This source code is made available under the [MIT License](https://github.com/dalpengholic/Udacity_Disaster_response_project/blob/master/LICENSE).
 <a name="acknowledgements"></a>
 ## Acknowledgements
 This project is given by the result of collaboration between [Udacity](https://www.udacity.com) and [Figure Eight](https://www.figure-eight.com)
